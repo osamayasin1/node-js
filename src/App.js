@@ -8,8 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is my project. Osama Yasin
-  <br>
-          now its ok.
+          now its workink ok.
         </p>
         <a
           className="App-link"
