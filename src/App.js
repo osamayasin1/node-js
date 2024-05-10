@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my project. Osama Yasin
+          This is my project. Osama Yasin Websouls
           now its working ok.
         </p>
         <a
